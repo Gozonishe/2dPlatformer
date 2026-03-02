@@ -265,7 +265,7 @@ Tilemap:
       - {fileID: -533765841, guid: d03a283a9aca84f93a538b8f39b95b9e, type: 3}
       - {fileID: -1231162304, guid: d03a283a9aca84f93a538b8f39b95b9e, type: 3}
       - {fileID: 1397510095, guid: d03a283a9aca84f93a538b8f39b95b9e, type: 3}
-      m_AnimationSpeed: 1.8867741
+      m_AnimationSpeed: 4.4361515
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 3, y: -1, z: 0}
@@ -295,7 +295,7 @@ Tilemap:
       - {fileID: 1650624764, guid: 59c64323ca2fc455c90c0b5057e2ca38, type: 3}
       - {fileID: 2034516420, guid: 59c64323ca2fc455c90c0b5057e2ca38, type: 3}
       - {fileID: -1182607878, guid: 59c64323ca2fc455c90c0b5057e2ca38, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 5
       m_AnimationTimeOffset: 0
       m_Flags: 0
   m_TileAssetArray:
@@ -515,7 +515,7 @@ Grid:
   m_CellGap: {x: 0, y: 0, z: 0}
   m_CellLayout: 0
   m_CellSwizzle: 0
---- !u!114 &6925725763063397361
+--- !u!114 &1657325127456018872
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
